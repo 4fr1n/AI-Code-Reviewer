@@ -1,0 +1,18 @@
+# Env
+.env
+
+# Model weights (too large for GitHub)
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Vite build output
+frontend/dist/
+
+
+
